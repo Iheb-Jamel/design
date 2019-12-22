@@ -1,0 +1,11 @@
+
+Resources used in this design;
+
+Designer: rawpixel,
+Url:https://pixabay.com/es/photos/negocio-papeleo-deal-acuerdo-3152586/;
+
+Designer: rawpixel,
+Url:https://pixabay.com/es/photos/mano-plan-de-negocios-negocio-3190204/;
+
+Designer: Free-Photos,
+Url:https://pixabay.com/es/photos/corbata-ajustar-ajuste-hombre-690084/;
